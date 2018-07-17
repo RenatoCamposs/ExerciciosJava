@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Ex_26</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Ex_12</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>Ex_26</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\..\Ex_26\Ex_26\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\..\Ex_26\Ex_26\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<symboltables>
+		<symboltable>
+			<path>src\Ex_12.java.sdk</path>
+			<symbols>
+				<symbol>Ex_12</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

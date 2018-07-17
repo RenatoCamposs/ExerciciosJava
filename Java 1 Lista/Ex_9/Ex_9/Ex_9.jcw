@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Ex_9</label>
+		<id>60</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Ex_9.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\..\Ex_16\EX_16\EX_16.jcp</path>
+		</project>
+		<project>
+			<path>..\..\Ex_1\Ex_1\Ex_1.jcp</path>
+		</project>
+		<project>
+			<path>..\..\Ex_6\Ex_6\Ex_6.jcp</path>
+		</project>
+		<project>
+			<path>Ex_9.jcp</path>
+		</project>
+	</projects>
+</workspace>

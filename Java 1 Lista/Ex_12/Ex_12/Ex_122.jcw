@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Ex_12</label>
+		<id>34</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Ex_122.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Ex_12.jcp</path>
+		</project>
+		<project>
+			<path>..\..\Ex_26\Ex_26\Ex_26.jcp</path>
+		</project>
+	</projects>
+</workspace>

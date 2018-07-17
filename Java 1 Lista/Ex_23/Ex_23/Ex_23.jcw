@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Ex_23</label>
+		<id>75</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Ex_23.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\..\Ex_11\Ex_11\Ex_11.jcp</path>
+		</project>
+		<project>
+			<path>Ex_23.jcp</path>
+		</project>
+		<project>
+			<path>..\..\tabuada\Tabuada\Tabuada.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Ex_13</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Ex_13</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\Ex_13.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\Ex_13.java.sdk</path>
+			<symbols>
+				<symbol>Ex_13</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

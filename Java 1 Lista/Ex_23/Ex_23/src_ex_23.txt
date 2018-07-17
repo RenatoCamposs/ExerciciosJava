@@ -1,0 +1,2 @@
+"C:\\Users\\ETEC SM\\Desktop\\Ex_23\\Ex_23\\src\\Ex_23.java"
+"C:\\Users\\ETEC SM\\Desktop\\Ex_23\\Ex_23\\src\\Ex_23Frame.java"

@@ -1,0 +1,2 @@
+"E:\\Ensino Tecnico\\LP\\Ex Java\\Ex_6\\Ex_6\\src\\Ex_6.java"
+"E:\\Ensino Tecnico\\LP\\Ex Java\\Ex_6\\Ex_6\\src\\Ex_6Frame.java"
